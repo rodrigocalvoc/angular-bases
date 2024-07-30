@@ -1,0 +1,2 @@
+ir a la carpeta 02-bases en la terminal
+y poner ng serve -o
